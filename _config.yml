@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Amir Fakharzadeh"
 title_separator          : "-"
 name                     : "Amir" 
-description              : "Dream it , Belive it , Build it \n Failure builds character "
+description              : "Dream it , Belive it , Build it"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Amir Fakharzadeh"
   avatar           : "assets/images/Profile.jpg"
-  bio              : student of Computer Engineering at IUST
+  bio              : Student of Computer Engineering at IUST
   location         : "تهران"
   email            : amirfakharzadeh2002@gmail.com
   twitter: 
