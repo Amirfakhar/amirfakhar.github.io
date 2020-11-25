@@ -64,9 +64,9 @@ Elton John , George Clooney , Angelina Julie
 ---
 
 
-[What's your personality?!(English)](http://www.16persoalities.com)
+[What's your personality?!(English)](http://www.16personalities.com)
 
 
 
 
-[What's your personality?!(Persian)](http://www.16persoalities.com/fa)
+[What's your personality?!(Persian)](http://www.16personalities.com/fa)
