@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -118,7 +118,7 @@ author:
   github: AmirFakhar
   instagram: Amirfakharzadeh1
   links:
-    - label: "gmail"
+    - label: "Gmail"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:amirfakharzadeh202@gmail.com
     - label: "Website"
