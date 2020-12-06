@@ -31,7 +31,9 @@ title: My personality (16personalities.com)
  your imagination, your compassion, your integrity, and your deeply held principles.                       
  Unlike many other idealistic types, however, 
  you are also capable of turning your ideals into plans and executing them.
-                                                                                       ![alt text](../assets/images/MBTI2.jpg) 
+
+
+![alt text](../assets/images/MBTI2.jpg "more information") 
 
 
 
