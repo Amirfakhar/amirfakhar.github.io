@@ -2,7 +2,11 @@
 layout: posts
 title: برنامه ریزی و مدیریت زمان در دوران دانشگاه (دانشجویان علم و صنعت)
 ---
-{: style="text-align: right" }
+<style type="text/css">
+body{
+ direction:rtl;
+}
+</style>
 ## مصاحبه با خانم فصاحت و آقای غلام پور 
 
 
