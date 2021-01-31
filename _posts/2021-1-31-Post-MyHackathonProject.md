@@ -14,7 +14,7 @@ title: My Hackthon Project
 سبک راک و ساز گیتار الکتریک را انتخاب کنید اون وفت از طریق ایمیل میتوانید با بند یا نوازنده مورد نظر ارتباط داشته باشین
 genre:rock
 instrument:guitar electric
-   ![http://99521487.pythonanywhere.com](../assets/images/Firstpageofhackathon.jpg "Let's Play Some Tunes")
+   [![My project](../assets/images/Firstpageofhackathon.jpg "My project")](http://99521487.pythonanywhere.com)
 
 ---
 [Lets Play Some Tunes](http://99521487.pythonanywhere.com)
