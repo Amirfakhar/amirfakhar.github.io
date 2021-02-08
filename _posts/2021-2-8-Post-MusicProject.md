@@ -21,6 +21,11 @@ title: Music Project
 اما به نظرم حس و حالی که یک ساز و نواختن آن به آدم میده کیبورد کامپیوتر نمیده
 و به شخصه اگر با ساز قرار بود کار کنیم دست خودمو باز تر میدیدم
 
+<body>
+<audio controls>
+<source src="../assets/Music/Music.mp3" type="mp3">
+</audio>
+</body>
 ---
 
 
