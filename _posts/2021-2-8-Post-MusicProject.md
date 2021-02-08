@@ -23,7 +23,7 @@ title: Music Project
 
 <body>
 <audio controls>
-<source src="../assets/Music/Music.mp3" type="mp3">
+<source src="../assets/Music/Music.wav" type="audio/wav">
 </audio>
 </body>
 ---
