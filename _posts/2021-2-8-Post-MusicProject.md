@@ -2,6 +2,8 @@
 layout: posts
 title: Music Project
 ---
+<html>
+<body>
 سلام امروز میخواهیم در مورد سونیک پای که یک محیط ساخت موسیقی است صحبت کنیم
 
 سونیک پای یک محیط ساخت موسیقی است که با استفاده از برنامه نویسی و کد زدن میتوان اصوات مختلفی را تولید کرد و در نهایت موسیقی مورد نظر خود را ساخت
@@ -21,12 +23,13 @@ title: Music Project
 اما به نظرم حس و حالی که یک ساز و نواختن آن به آدم میده کیبورد کامپیوتر نمیده
 و به شخصه اگر با ساز قرار بود کار کنیم دست خودمو باز تر میدیدم
 
-<body>
+
 <audio controls>
-<source src="https://s16.picofile.com/file/8424333850/Music.mp3.html" type="audio/wav">
+<source src="https://s16.picofile.com/d/8424333850/645a93c8-c86f-4451-9984-381e25844104/Music.mp3" type="audio/mpeg">
 </audio>
 </body>
+</html>
 ---
 
 
-[Listen to my music!!!](https://s16.picofile.com/file/8424333850/Music.mp3.html)
+[Listen to my music!!!](https://s16.picofile.com/d/8424333850/645a93c8-c86f-4451-9984-381e25844104/Music.mp3)
