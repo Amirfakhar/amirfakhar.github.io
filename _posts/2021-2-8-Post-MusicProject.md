@@ -23,10 +23,10 @@ title: Music Project
 
 <body>
 <audio controls>
-<source src=".https://s16.picofile.com/file/8424333850/Music.mp3.html" type="audio/wav">
+<source src="https://s16.picofile.com/file/8424333850/Music.mp3.html" type="audio/wav">
 </audio>
 </body>
 ---
 
 
-[Listen to my music!!!](../assets/Music/Music.mp3)
+[Listen to my music!!!](https://s16.picofile.com/file/8424333850/Music.mp3.html)
